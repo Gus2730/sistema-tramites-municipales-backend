@@ -5,6 +5,8 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <Configurations>Debug;Release</Configurations>
+    <Platforms>AnyCPU;X64</Platforms>
   </PropertyGroup>
 
   <ItemGroup>

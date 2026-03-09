@@ -1,0 +1,24 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaTramites", "SistemaTramites.csproj", "{FE8B90FA-FFE1-5728-8BBF-2A5EFDFBF334}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE8B90FA-FFE1-5728-8BBF-2A5EFDFBF334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8B90FA-FFE1-5728-8BBF-2A5EFDFBF334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8B90FA-FFE1-5728-8BBF-2A5EFDFBF334}.Release|Any CPU.ActiveCfg = Debug|X64
+		{FE8B90FA-FFE1-5728-8BBF-2A5EFDFBF334}.Release|Any CPU.Build.0 = Debug|X64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC389CF2-A634-4ADF-8351-36C3C11800B8}
+	EndGlobalSection
+EndGlobal

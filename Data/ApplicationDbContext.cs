@@ -104,7 +104,7 @@ namespace SistemaTramites.Data
                 new Permission { Id = "DEP3", Descripcion = "Inactivar Departamento", Modulo = "Departamentos" },
                 new Permission { Id = "DEP4", Descripcion = "Consultar Departamento", Modulo = "Departamentos" },
                 new Permission { Id = "TRA1", Descripcion = "Registrar Trámite", Modulo = "Tramites" },
-                new Permission { Id = "TRA2", Descripción = "Modificar Tramite", Modulo = "Tramites" },
+                new Permission { Id = "TRA2", Descripcion = "Modificar Tramite", Modulo = "Tramites" },
                 new Permission { Id = "TRA3", Descripcion = "Inactivar Tramite", Modulo = "Tramites" },
                 new Permission { Id = "TRA4", Descripcion = "Finalizar Tramite", Modulo = "Tramites" },
                 new Permission { Id = "TRA5", Descripcion = "Consultar Tramite", Modulo = "Tramites" },
